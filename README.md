@@ -19,7 +19,7 @@ Instead of using your username and password to access your Plex account, Graphle
 # How to Run/Launch Graphlex
 * To start Graphlex go into Terminal(Mac), or CMD(Windows), and type "cd 'Location of Graphlex'/Graphlex/app.py"
 
-**The shell should return something like**
+_The shell should return something like_
 
 **Serving Flask app "app" (lazy loading)**
 
