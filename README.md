@@ -7,6 +7,7 @@ Graphlex requires packages, such as PlexAPI or Flask to run properly, thus, you 
 
 # Setting up/Connecting to Plex Account
 * Go into metaGrabber.py, In there you'll see a few variables, baseurl, token, movies, shows, etc.
+
 Baseurl should be the url you access plex on, I.E. The IP of the server:The port plex remotely runs on.
 Plex tells how to get your token here https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
 
