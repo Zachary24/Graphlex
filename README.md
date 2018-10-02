@@ -33,5 +33,5 @@ _The shell should return something like_
 
 **Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)**
 
-* Open a browser, go to localhost:5000
+* Open a browser, go to http://localhost:5000
 * Graphlex should start running!
