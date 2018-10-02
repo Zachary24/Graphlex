@@ -20,11 +20,17 @@ Instead of using your username and password to access your Plex account, Graphle
 * To start Graphlex go into Terminal(Mac), or CMD(Windows), and type "cd 'Location of Graphlex'/Graphlex/app.py"
 
 The shell should return something like
+
 Serving Flask app "app" (lazy loading)
+
 Environment: production
+
 WARNING: Do not use the development server in a production environment.
+
 Use a production WSGI server instead.
+
 Debug mode: off
+
 Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 * Open a browser, go to localhost:5000
